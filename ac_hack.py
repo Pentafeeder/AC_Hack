@@ -94,12 +94,6 @@ def traversePointers(base_address, offsets):
     # by end, address is a primary value
     return address
 
-def angle_between(v1, v2):
-    dot = v1[0]*v2[0] + v1[1]*v2[1]
-    dot = max(min(dot, 1.0), -1.0)  # Clamp for precision
-    angle_rad = math.acos(dot)
-    angle_deg = math.degrees(angle_rad)
-    return angle_deg
 
 def trackOthers():
     player_addr = address.player_ent_addr
@@ -111,23 +105,7 @@ def trackOthers():
     enemy_coords = [0, 0, 0] #x, y, z, (east/west, south/north, up/down)
     player_coords = [0, 0, 0]
     
-    camera_x_deg = process.read_float(player_addr + offsets.camera_x)
-    camera_y_deg = process.read_float(player_addr + offsets.camera_y)
     
-    north_vector = vmath.Vector3(1, 0 , 0)
-    x_rad = math.radians(camera_x_deg)
-    dy = math.tan(x_rad)
-
-
-    player_direction_vector = vmath.Vector3(1, dy, 0).normalize()
-
-    # # camera vector
-    # x_rad = math.radians(camera_x)
-    # dx = math.sin(x_rad)
-    # dz = math.cos(x_rad)
-
-
-    print(hex(player_addr + offsets.head_pos_ew))
     enemy_coords[0] = process.read_float(enemy_addr + offsets.head_pos_ns)
     enemy_coords[1] = process.read_float(enemy_addr + offsets.head_pos_ew)
     enemy_coords[2] = process.read_float(enemy_addr + offsets.head_pos_z)
@@ -135,85 +113,23 @@ def trackOthers():
     player_coords[0] = process.read_float(player_addr + offsets.head_pos_ns)
     player_coords[1] = process.read_float(player_addr + offsets.head_pos_ew)
     player_coords[2] = process.read_float(player_addr + offsets.head_pos_z)
-
-   
     
     # vectors between player and enemy
     vx = player_coords[0] - enemy_coords[0]
     vy = player_coords[1] - enemy_coords[1]
     vz = player_coords[2] - enemy_coords[2]
 
-    enemy_player_vector = vmath.Vector3(vx, vy, 0).normalize()
-    
-    
-    angle_a = math.atan2(vx, vy)
-    angle_b = math.atan2(1, dy)
-    
-    angle_diff = angle_b - angle_a
+    distance = math.sqrt(vx**2 + vy**2 + vz**2)
 
-    if angle_diff > math.pi:
-        angle_diff -= 2 * math.pi
-    elif angle_diff < -math.pi:
-        angle_diff += 2 * math.pi
-
-    print('new angle:', math.degrees(angle_diff))
-    
-    dot = enemy_player_vector.dot(player_direction_vector)
-    denom = player_direction_vector.length * enemy_player_vector.length
-    angle = math.degrees(math.acos(dot / denom))
-    print(enemy_player_vector, player_direction_vector)
-    print(angle, camera_x_deg)
-    
-    print(vx, vy)
-    # camera facing away from enemy when vy > 0
-    if (vx < 0 and vy > 0) or (vx > 0 and vy > 0):
-        # player right of enemy
-        print('changing angles')
-        print(angle, 360 - angle)
-        angle = 360 - angle
-        angle = camera_x_deg + angle
+    print('The distance between you and an enemy is:', distance)
+    if (distance > 30):
+        print('you are far from them')
+    elif (distance > 15):
+        print('you are quite near them')
     else:
-        angle = camera_x_deg - angle
-
-    process.write_float(player_addr + offsets.camera_x, angle)
-   # process.write_float(player_addr + offsets.camera_y, vertical_deg)
-
-    # now find angle between direction and enemy
-
-
-
-    # x = math.sin(angle_rad)
-    # y = math.cos(angle_rad)
-    # camera_vector_x = vmath.Vector3(x, y, 0).normalize()
-
-    # print('dotting')
-    # print(camera_vector_x.dot(enemy_player_vector_x))
-
-    # print(vx, vy, vz)
-    # # normalise vectors
-    # # mag_v = math.sqrt(vx**2 + vy**2 + vz**2)
-    # # vx /= mag_v
-    # # vy /= mag_v
-    # # vz /= mag_v
-    # #print(vx, vy, vz)
-
-    # horizontal_rad = math.atan2(vz, vx)
-    # horizontal_deg = math.degrees(horizontal_rad)
-
-    # # Pitch (vertical rotation)
-    # distance_xz = math.sqrt(vx**2 + vz**2)
-    # vertical_rad = math.atan2(vy, distance_xz)
-    # vertical_deg = math.degrees(vertical_rad)
-
-    # print(horizontal_deg, vertical_deg)
-    # print(hex(player_addr))
-
-    # dot = vx*dx + vy*dz
-    # dot = max(min(dot, 1.0), -1.0)  # Clamp for precision
-    # angle_rad = math.acos(dot)
-    # angle_deg = math.degrees(angle_rad)
+        print('very close!!!')
     
-    # print(angle_deg) # horizontal
+    
 
 
     
@@ -225,7 +141,6 @@ def changeFOV(value):
     except Exception as e:
         print('please input a positive number')
 
-    pass
 
 def makeInvulnerable(option):
     team_addr = RemotePointer(process.process_handle, address.player_ent_addr + offsets.team)
@@ -243,9 +158,6 @@ def makeInvulnerable(option):
     process.write_bytes(alloc_mem_addr + 0x7, int('0F8405000000', 16).to_bytes(6, 'big'), 6) # je 00C30012
     process.write_bytes(alloc_mem_addr + 0xD, int('297304', 16).to_bytes(3, 'big'), 3) # sub [ebx+04],esi
     process.write_bytes(alloc_mem_addr + 0x10, int('8BC6', 16).to_bytes(2, 'big'), 2) # mov eax,esi
-    
-    
-    
     
     # getting byte difference between mem addr of old instructions and mem addr of injected instructions
     opcode_bytes = str(alloc_mem_addr - process.base_address - 0x1C223 - 0x5)
@@ -281,11 +193,10 @@ def main():
         print("Type the number corresponding to what hack you want to have:")
         print("1. infinite ammo")
         print("2. increased health")
-        print("3. wallhacks")
-        print("4. aimbot")
-        print('5. add grenade to inventory')
-        print('6. become invulnerable')
-        print('7. change FOV')
+        print("3. get distance")
+        print('4. add grenade to inventory')
+        print('5. become invulnerable')
+        print('6. change FOV')
         hack = input("").strip()
         
         match hack:
@@ -296,17 +207,15 @@ def main():
                 print('getting increased health / invulnerability')
                 increaseHealth()
             case '3':
-                print('getting wallhacks')
-            case '4':
-                print('getting aimbot')
+                print('tracking distance')
                 trackOthers()
-            case '5':
+            case '4':
                 print('getting grenade')
                 addGrenade()
-            case '6':
+            case '5':
                 option = input('type "team" or "solo" to include for invincibility: ')
                 makeInvulnerable(option)
-            case '7':
+            case '6':
                 value = input('type a positive number between 0 and 170 to set the FOV: ')
                 changeFOV(value)
             case _:
