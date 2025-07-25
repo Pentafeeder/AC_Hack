@@ -1,0 +1,2420 @@
+maprot parameters for: packages\maps\official\ac_africa
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_alcove
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_aqueous
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_arabian
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_arctic
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_arctic2
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_arid
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_avenue
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_coal
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_complex
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_depot
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_desert
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_desert2
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_desert3
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_douze
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|ktf|lss|osok|pf|surv|tktf
+  modes_auto dm|ktf|lss|osok|tktf
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|ktf|lss|osok|pf|surv|tktf
+  modes_cr[1] dm|ktf|lss|osok|pf|surv|tktf
+  modes_cr[2] dm|ktf|lss|osok|pf|surv|tktf
+  modes_cr[3] dm|ktf|lss|osok|pf|surv|tktf
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] dm|ktf|lss|osok|pf|surv|tktf
+  modes_pn[05] dm|ktf|lss|osok|pf|surv|tktf
+  modes_pn[06] dm|ktf|lss|osok|pf|surv|tktf
+  modes_pn[07] dm|ktf|lss|osok|pf|surv|tktf
+  modes_pn[08] tktf
+  modes_pn[09] tktf
+  modes_pn[10] tktf
+  modes_pn[11] tktf
+  modes_pn[12] tktf
+  modes_pn[13] tktf
+  modes_pn[14] tktf
+  modes_pn[15] tktf
+  modes_pn[16] tktf
+  modes_pn[17] tktf
+  modes_pn[18] tktf
+  modes_pn[19] tktf
+  modes_pn[20] tktf
+  modes_pn[21] tktf
+  modes_pn[22] tktf
+  modes_pn[23] tktf
+  modes_pn[24] tktf
+  modes_pn[25] tktf
+  modes_pn[26] tktf
+  modes_pn[27] tktf
+  modes_pn[28] tktf
+  modes_pn[29] tktf
+  modes_pn[30] tktf
+  modes_pn[31] tktf
+  modes_pn[32] tktf
+
+maprot parameters for: packages\maps\official\ac_dusk
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_edifice
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_elevation
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_gothic
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_industrial
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_ingress
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_kazemat
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_keller
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_lainio
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_lotus
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_mines
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_nocturne
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_origin
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_outpost
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_power
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_rampart
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_rattrap
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_scaffold
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_shine
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_snow
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_stellar
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_sunset
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_swamp
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_terros
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_toxic
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_urban
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_venison
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_wasteland
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_auto dm|htf|lss|osok|tdm|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[1] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[2] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_cr[3] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|lss|osok|pf|surv
+  modes_pn[02] dm|lss|osok|pf|surv
+  modes_pn[03] dm|lss|osok|pf|surv
+  modes_pn[04] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[05] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[06] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[07] dm|htf|lss|osok|pf|surv|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[08] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[09] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[10] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[11] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[12] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[13] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[14] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[15] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[16] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[17] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[18] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[19] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[20] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[21] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[22] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[23] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[24] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[25] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[26] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[27] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[28] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[29] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[30] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[31] htf|tdm|tlss|tosok|tpf|tsurv
+  modes_pn[32] htf|tdm|tlss|tosok|tpf|tsurv
+
+maprot parameters for: packages\maps\official\ac_werk
+  mode tdm: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode dm: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode surv: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode tsurv: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode ctf: weight:10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode pf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4 manual:1
+  mode lss: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode osok: weight:-10 time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tosok: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode htf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode tktf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4
+  mode ktf: time:10 mintime:4 maxtime:20 maxplayers:7 maxteamsize:10 teamthreshold:4
+  mode tpf: time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  mode tlss: weight:-10 time:15 mintime:4 maxtime:20 minplayers:4 maxteamsize:6 teamthreshold:4 manual:1
+  modes_allowed ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_auto ctf|dm|htf|ktf|lss|osok|tdm|tktf|tosok
+  modes man pf|surv|tlss|tpf|tsurv
+  modes_cr[0] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[1] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[2] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_cr[3] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[01] dm|ktf|lss|osok|pf|surv
+  modes_pn[02] dm|ktf|lss|osok|pf|surv
+  modes_pn[03] dm|ktf|lss|osok|pf|surv
+  modes_pn[04] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[05] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[06] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[07] ctf|dm|htf|ktf|lss|osok|pf|surv|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[08] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[09] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[10] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[11] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[12] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[13] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[14] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[15] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[16] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[17] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[18] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[19] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[20] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[21] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[22] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[23] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[24] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[25] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[26] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[27] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[28] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[29] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[30] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[31] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+  modes_pn[32] ctf|htf|tdm|tktf|tlss|tosok|tpf|tsurv
+
