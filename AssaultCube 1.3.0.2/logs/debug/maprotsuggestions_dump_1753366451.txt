@@ -1,0 +1,136 @@
+// maprot suggestions dump, Fri Jul 25 00:14:11 2025
+
+mode penalties: tdm:0 dm:1050 surv:0 tsurv:0 ctf:0 pf:0 lss:500 osok:500 tosok:0 htf:0 tktf:0 ktf:1150 tpf:0 tlss:0
+
+map: "packages\maps\official\ac_ingress", weight: -1053, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:51 dm:3 surv:1055 tsurv:1092 ctf:-916 pf:88 lss:1049 osok:1083 tosok:1062 htf:17 tktf:44 ktf:12 tpf:40 tlss:1073
+
+map: "packages\maps\official\ac_swamp", weight: -1053, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:27 dm:3 surv:1025 tsurv:1008 ctf:-970 pf:80 lss:1094 osok:1053 tosok:1002 htf:95 tktf:11 ktf:15 tlss:1028
+
+map: "packages\maps\official\ac_mines", weight: -1054, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:69 dm:4 surv:1026 tsurv:1051 ctf:-948 pf:63 lss:1048 osok:1001 tosok:1014 htf:39 tktf:53 ktf:86 tpf:30 tlss:1064
+
+map: "packages\maps\official\ac_toxic", weight: -1066, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:5 dm:16 surv:1026 tsurv:1054 pf:82 lss:1018 osok:1023 tosok:1093 htf:9 tpf:20 tlss:1065
+
+map: "packages\maps\official\ac_power", weight: -1068, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:64 dm:18 surv:1048 tsurv:1081 ctf:-946 pf:88 lss:1084 osok:1033 tosok:1054 htf:67 tktf:28 ktf:41 tpf:73 tlss:1032
+
+map: "packages\maps\official\ac_werk", weight: -1070, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:32 dm:20 surv:1049 tsurv:1017 ctf:-987 pf:13 lss:1080 osok:1033 tosok:1055 htf:22 tktf:56 ktf:7 tpf:66 tlss:1029
+
+map: "packages\maps\official\ac_nocturne", weight: -1074, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:93 dm:24 surv:1050 tsurv:1038 ctf:-929 pf:79 lss:1081 osok:1048 tosok:1067 htf:13 tktf:24 ktf:92 tpf:8 tlss:1001
+
+map: "packages\maps\official\ac_douze", weight: -1074, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: dm:24 surv:1049 pf:14 lss:1066 osok:1019 tktf:48 ktf:43
+
+map: "packages\maps\official\ac_rampart", weight: -1078, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:47 dm:28 surv:1037 tsurv:1002 ctf:-960 pf:60 lss:1039 osok:1039 tosok:1005 htf:40 tktf:73 ktf:21 tpf:12 tlss:1096
+
+map: "packages\maps\official\ac_complex", weight: -1080, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:18 dm:30 surv:1019 tsurv:1061 pf:53 lss:1031 osok:1004 tosok:1047 htf:16 tpf:73 tlss:1059
+
+map: "packages\maps\official\ac_desert3", weight: -1082, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:14 dm:32 surv:1099 tsurv:1001 ctf:-974 pf:86 lss:1008 osok:1002 tosok:1060 htf:81 tktf:89 tpf:80 tlss:1015
+
+map: "packages\maps\official\ac_dusk", weight: -1082, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:10 dm:32 surv:1003 tsurv:1098 ctf:-997 pf:37 lss:1069 osok:1049 tosok:1072 htf:81 tktf:71 ktf:12 tpf:66 tlss:1080
+
+map: "packages\maps\official\ac_keller", weight: -1085, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:75 dm:35 surv:1091 tsurv:1069 ctf:-935 pf:44 lss:1069 osok:1092 tosok:1098 tktf:96 ktf:63 tpf:15 tlss:1067
+
+map: "packages\maps\official\ac_industrial", weight: -1085, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:98 dm:35 surv:1011 tsurv:1045 ctf:-917 pf:87 lss:1040 osok:1046 tosok:1084 htf:6 tktf:66 ktf:91 tpf:63 tlss:1051
+
+map: "packages\maps\official\ac_urban", weight: -1087, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:58 dm:37 surv:1091 tsurv:1029 ctf:-1000 pf:45 lss:1036 osok:1045 tosok:1082 htf:53 tktf:22 ktf:81 tpf:90 tlss:1088
+
+map: "packages\maps\official\ac_arabian", weight: -1087, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:49 dm:37 surv:1051 tsurv:1067 ctf:-927 pf:85 lss:1027 osok:1022 tosok:1075 htf:27 tktf:36 ktf:45 tpf:63 tlss:1049
+
+map: "packages\maps\official\ac_edifice", weight: -1090, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:30 dm:40 surv:1031 tsurv:1006 ctf:-932 pf:13 lss:1090 osok:1062 tosok:1037 htf:90 tktf:21 ktf:52 tpf:17 tlss:1091
+
+map: "packages\maps\official\ac_arctic2", weight: -1094, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:82 dm:44 surv:1001 tsurv:1007 ctf:-967 pf:8 lss:1004 osok:1060 tosok:1054 htf:2 tktf:14 ktf:44 tpf:32 tlss:1015
+
+map: "packages\maps\official\ac_arctic", weight: -1094, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:80 dm:44 surv:1049 tsurv:1061 pf:62 lss:1075 osok:1094 tosok:1051 htf:68 tpf:19 tlss:1093
+
+map: "packages\maps\official\ac_outpost", weight: -1095, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:53 dm:45 surv:1028 tsurv:1080 ctf:-966 pf:7 lss:1085 osok:1079 tosok:1061 htf:20 tktf:7 ktf:13 tpf:63 tlss:1060
+
+map: "packages\maps\official\ac_venison", weight: -1098, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: dm:48 surv:1066 tsurv:1098 ctf:-953 pf:47 lss:1068 osok:1089 tosok:1019 htf:11 tktf:51 ktf:94 tpf:28 tlss:1028
+
+map: "packages\maps\official\ac_desert2", weight: -1102, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:74 dm:52 surv:1033 tsurv:1099 pf:66 lss:1054 osok:1024 tosok:1085 htf:84 tpf:49 tlss:1066
+
+map: "packages\maps\official\ac_africa", weight: -1106, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:14 dm:56 surv:1025 tsurv:1067 ctf:-939 pf:56 lss:1075 osok:1071 tosok:1032 htf:47 tktf:58 ktf:61 tpf:79 tlss:1048
+
+map: "packages\maps\official\ac_stellar", weight: -1113, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:35 dm:63 surv:1091 tsurv:1086 ctf:-926 pf:21 lss:1017 osok:1079 tosok:1095 htf:16 tktf:50 ktf:71 tpf:19 tlss:1098
+
+map: "packages\maps\official\ac_snow", weight: -1114, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:89 dm:64 surv:1012 tsurv:1005 pf:39 lss:1075 osok:1069 tosok:1034 htf:66 tpf:57 tlss:1059
+
+map: "packages\maps\official\ac_desert", weight: -1115, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:44 dm:65 surv:1062 tsurv:1040 pf:76 lss:1015 osok:1010 tosok:1065 htf:27 tpf:65 tlss:1096
+
+map: "packages\maps\official\ac_wasteland", weight: -1120, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:88 dm:70 surv:1070 tsurv:1081 pf:66 lss:1055 osok:1085 tosok:1082 htf:60 tpf:29 tlss:1007
+
+map: "packages\maps\official\ac_aqueous", weight: -1124, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:71 dm:74 surv:1022 tsurv:1007 ctf:-903 pf:32 lss:1074 osok:1036 tosok:1079 htf:23 tktf:94 ktf:91 tpf:90 tlss:1082
+
+map: "packages\maps\official\ac_alcove", weight: -1124, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:94 dm:74 surv:1046 tsurv:1071 ctf:-953 pf:47 lss:1088 osok:1013 tosok:1094 htf:65 tktf:56 ktf:88 tpf:58 tlss:1001
+
+map: "packages\maps\official\ac_kazemat", weight: -1128, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:17 dm:78 surv:1097 tsurv:1067 ctf:-988 pf:70 lss:1065 osok:1090 tosok:1064 htf:88 tktf:12 ktf:53 tpf:40 tlss:1026
+
+map: "packages\maps\official\ac_rattrap", weight: -1128, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:58 dm:78 surv:1073 tsurv:1095 pf:95 lss:1041 osok:1030 tosok:1009 htf:44 tpf:80 tlss:1081
+
+map: "packages\maps\official\ac_terros", weight: -1134, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:5 dm:84 surv:1011 tsurv:1071 ctf:-969 pf:41 lss:1006 osok:1063 tosok:1032 htf:62 tktf:28 ktf:46 tpf:8 tlss:1086
+
+map: "packages\maps\official\ac_shine", weight: -1136, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:56 dm:86 surv:1087 tsurv:1096 ctf:-988 pf:90 lss:1000 osok:1007 tosok:1042 htf:17 tktf:35 ktf:15 tpf:55 tlss:1020
+
+map: "packages\maps\official\ac_sunset", weight: -1140, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:72 dm:90 surv:1036 tsurv:1097 ctf:-988 pf:57 lss:1004 osok:1027 tosok:1015 htf:26 tktf:26 ktf:23 tpf:32 tlss:1018
+
+map: "packages\maps\official\ac_coal", weight: -1142, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:62 dm:92 surv:1085 tsurv:1096 ctf:-996 pf:61 lss:1007 osok:1049 tosok:1067 htf:85 tktf:63 ktf:70 tpf:69 tlss:1089
+
+map: "packages\maps\official\ac_avenue", weight: -1143, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:39 dm:93 surv:1047 tsurv:1076 ctf:-971 pf:38 lss:1074 osok:1064 tosok:1077 htf:28 tktf:50 ktf:25 tpf:96 tlss:1030
+
+map: "packages\maps\official\ac_lotus", weight: -1148, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:34 dm:98 surv:1039 tsurv:1024 ctf:-904 pf:46 lss:1023 osok:1055 tosok:1096 htf:96 tktf:95 ktf:82 tpf:19 tlss:1077
+
+map: "packages\maps\official\ac_elevation", weight: -1149, bestmode: 2 (dm), mappenalty: 0
+  mode penalties: tdm:68 dm:99 surv:1055 tsurv:1061 ctf:-940 pf:44 lss:1048 osok:1007 tosok:1088 htf:47 tktf:15 ktf:11 tpf:69 tlss:1065
+
+map: "packages\maps\official\ac_origin", weight: -1196, bestmode: 2 (dm), mappenalty: 79
+  mode penalties: tdm:64 dm:67 surv:1008 tsurv:1086 ctf:-925 pf:1 lss:1078 osok:1097 tosok:1019 htf:77 tktf:23 ktf:5 tpf:25 tlss:1072
+
+map: "packages\maps\official\ac_gothic", weight: -1453, bestmode: 15 (ktf), mappenalty: 212
+  mode penalties: tdm:81 dm:296 surv:1087 tsurv:1013 ctf:-908 pf:16 lss:1086 osok:1095 tosok:1087 htf:96 tktf:54 ktf:89 tpf:33 tlss:1048
+
+map: "packages\maps\official\ac_arid", weight: -1454, bestmode: 2 (dm), mappenalty: 345
+  mode penalties: tdm:10 dm:56 surv:1076 tsurv:1067 ctf:-993 pf:44 lss:1073 osok:1096 tosok:1050 htf:11 tktf:51 ktf:381 tpf:34 tlss:1042
+
+map: "packages\maps\official\ac_lainio", weight: -1616, bestmode: 2 (dm), mappenalty: 479
+  mode penalties: tdm:22 dm:83 surv:1071 tsurv:1064 ctf:-937 pf:85 lss:1000 osok:1018 tosok:1009 htf:67 tktf:6 ktf:545 tpf:57 tlss:1077
+
+map: "packages\maps\official\ac_depot", weight: -1805, bestmode: 15 (ktf), mappenalty: 625
+  mode penalties: tdm:92 dm:656 surv:1056 tsurv:1067 ctf:-997 pf:9 lss:1075 osok:1098 tosok:1072 htf:7 tktf:29 ktf:24 tpf:14 tlss:1067
+
+map: "packages\maps\official\ac_scaffold", weight: -1827, bestmode: 2 (dm), mappenalty: 759
+  mode penalties: tdm:4 dm:11 surv:1065 tsurv:1013 pf:51 lss:1776 osok:1011 tosok:1022 htf:54 tpf:85 tlss:1085
+

@@ -1,0 +1,1316 @@
+logging local AssaultCube server (version 1302, protocol 1300/104) now..
+server is LAN-only - without connection to masterserver
+ACTION REQUIRED: you must provide a PRIVATE SERVER KEY via the '-Y' command line argument
+LAN-only because no master is given
+read 1 player vitas from config\servervita.cfg
+anticheat: disabled
+dedicated server started, waiting for clients...
+Ctrl-C to exit
+added 44 servermaps
+read 0 map rotation entries from 'config\maprot.cfg'
+read 0 admin passwords from 'config\serverpwd.cfg'
+read 0 (0) blacklist entries from 'config\serverblacklist.cfg', 0 errors
+read 3 (3) IP list entries from 'config\geoip.cfg', 0 errors, 0 concatenated
+read 0 + 0 entries from nickname blacklist file 'config\nicknameblacklist.cfg', 0 errors
+[192.168.1.223] client connected (--)
+[192.168.1.223] pentafeeder client logged in (using serverpassword), AC: 1302|1640, pubkey: 463ba5d6ef799559da2e8bc23362bd090b2323b1e66ee36578641d260b29d9a4
+
+Game start: deathmatch on ac_arctic, 1 players, 10 minutes, mastermode 0, (map rev 20/15076, official, 'getmap' not prepared)
+initdemoslot(): use slot 0, sequence #1
+Demo recording started (#1).
+setupdemorecord(): sequence #1, deathmatch on ac_arctic
+
+Game status: deathmatch on ac_arctic, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    0 normal  192.168.1.223
+
+Status at 24-07-2025 02:52:59: 1 remote clients, 0.1 send, 0.3 rec (K/sec); Ping: #9|153|18; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+
+Status at 24-07-2025 02:53:59: 1 remote clients, 0.1 send, 0.5 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+
+Status at 24-07-2025 02:54:59: 1 remote clients, 0.1 send, 0.5 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+
+Status at 24-07-2025 02:55:59: 1 remote clients, 0.1 send, 0.5 rec (K/sec); Ping: #63|1638|126; CSL: #0|0|0 (bytes)
+[192.168.1.55] client connected (--)
+[192.168.1.55] orsted client logged in (using serverpassword), AC: 1302|1640, pubkey: 4cf84dcbd2db05cbf4de653153303d985ea8617fbbc6660e4e68fd3a086317ee
+
+Game status: deathmatch on ac_arctic, 6 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 02:56:59: 2 remote clients, 1.0 send, 1.0 rec (K/sec); Ping: #31|806|62; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 5 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    3 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 02:57:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 4 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    3 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 02:58:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 3 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    3 normal  192.168.1.223
+ 1 orsted              0     0   11 normal  192.168.1.55
+
+Status at 24-07-2025 02:59:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+[192.168.1.223] pentafeeder shredded orsted
+
+Game status: deathmatch on ac_arctic, 2 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:00:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_arctic, 1 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:01:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #1
+
+Game status: deathmatch on ac_arctic, game finished, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+enddemorecord(): sequence #1
+Demo "Thu Jul 24 03:02:39 2025: deathmatch, ac_arctic, 0.04MB" recorded.
+
+Game start: keep the flag on ac_rampart, 2 players, 10 minutes, mastermode 0, (map rev 102/10799, official, 'getmap' not prepared)
+initdemoslot(): use slot 1, sequence #2
+Demo recording started (#2).
+setupdemorecord(): sequence #2, keep the flag on ac_rampart
+demoworkerthread(): close slot 0, sequence #1
+demo #1 written to file "demos\20250724_0302_local_ac_arctic_10min_DM.dmo" (57209 bytes)
+demoworkerthread(): cleanup slot 0, sequence #1
+
+Game status: keep the flag on ac_rampart, 10 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:02:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #3|80|6; CSL: #0|0|0 (bytes)
+[192.168.1.223] disconnected client pentafeeder cn 0, 681 seconds played, score saved
+
+Game status: keep the flag on ac_rampart, 9 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:03:59: 1 remote clients, 1.0 send, 1.1 rec (K/sec); Ping: #8|216|16; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 8 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:04:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 7 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:05:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #2|54|4; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 6 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:06:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #1|27|2; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 5 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:07:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 4 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:08:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 3 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:09:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 2 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:10:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_rampart, 1 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:11:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #2
+
+Game status: keep the flag on ac_rampart, game finished, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #2
+Demo "Thu Jul 24 03:12:49 2025: keep the flag, ac_rampart, 0.03MB" recorded.
+
+Game start: deathmatch on ac_scaffold, 1 players, 10 minutes, mastermode 0, (map rev 18/10942, official, 'getmap' not prepared)
+initdemoslot(): use slot 2, sequence #3
+Demo recording started (#3).
+setupdemorecord(): sequence #3, deathmatch on ac_scaffold
+demoworkerthread(): close slot 1, sequence #2
+demo #2 written to file "demos\20250724_0312_local_ac_rampart_10min_KTF.dmo" (42071 bytes)
+demoworkerthread(): cleanup slot 1, sequence #2
+
+Game status: deathmatch on ac_scaffold, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:12:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #9|250|18; CSL: #0|0|0 (bytes)
+[192.168.1.223] client connected (--)
+[192.168.1.223] pentafeeder client logged in (using serverpassword), AC: 1302|1640, pubkey: 463ba5d6ef799559da2e8bc23362bd090b2323b1e66ee36578641d260b29d9a4
+
+Game status: deathmatch on ac_scaffold, 9 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    1 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:13:59: 2 remote clients, 0.8 send, 0.9 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 8 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    1 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:14:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 7 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 03:15:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 6 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    2 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:16:59: 2 remote clients, 1.1 send, 1.2 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+[192.168.1.223] pentafeeder sprayed orsted
+
+Game status: deathmatch on ac_scaffold, 5 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    2 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:17:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #1|28|2; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 4 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    2 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:18:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 3 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    2 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:19:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 2 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    2 normal  192.168.1.223
+ 1 orsted              0     1    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:20:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, 1 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:21:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #3
+
+Game status: deathmatch on ac_scaffold, 0 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:22:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #4|112|8; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_scaffold, game finished, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         1     0    3 normal  192.168.1.223
+ 1 orsted              0     1    5 normal  192.168.1.55
+
+enddemorecord(): sequence #3
+Demo "Thu Jul 24 03:22:59 2025: deathmatch, ac_scaffold, 0.04MB" recorded.
+
+Game start: keep the flag on ac_venison, 2 players, 10 minutes, mastermode 0, (map rev 427/47375, official, 'getmap' not prepared)
+initdemoslot(): use slot 3, sequence #4
+Demo recording started (#4).
+setupdemorecord(): sequence #4, keep the flag on ac_venison
+demoworkerthread(): close slot 2, sequence #3
+demo #3 written to file "demos\20250724_0322_local_ac_scaffold_10min_DM.dmo" (65194 bytes)
+demoworkerthread(): cleanup slot 2, sequence #3
+
+Game status: keep the flag on ac_venison, 10 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    9 normal  192.168.1.55
+
+Status at 24-07-2025 03:23:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #2|54|4; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 9 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    6 normal  192.168.1.55
+
+Status at 24-07-2025 03:24:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 8 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:25:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 7 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:26:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 6 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    9 normal  192.168.1.55
+
+Status at 24-07-2025 03:27:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 5 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:28:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 4 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:29:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 3 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:30:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 2 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:31:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_venison, 1 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:32:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #4
+
+Game status: keep the flag on ac_venison, game finished, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    3 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+enddemorecord(): sequence #4
+Demo "Thu Jul 24 03:33:09 2025: keep the flag, ac_venison, 0.04MB" recorded.
+
+Game start: one shot, one kill on ac_terros, 2 players, 10 minutes, mastermode 0, (map rev 108/23789, official, 'getmap' not prepared)
+initdemoslot(): use slot 4, sequence #5
+Demo recording started (#5).
+setupdemorecord(): sequence #5, one shot, one kill on ac_terros
+demoworkerthread(): close slot 3, sequence #4
+demo #4 written to file "demos\20250724_0333_local_ac_venison_10min_KTF.dmo" (65130 bytes)
+demoworkerthread(): cleanup slot 3, sequence #4
+
+Game status: one shot, one kill on ac_terros, 10 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    3 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:33:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #6|160|12; CSL: #0|0|0 (bytes)
+[192.168.1.223] disconnected client pentafeeder cn 0, 1299 seconds played, score saved
+
+Game status: one shot, one kill on ac_terros, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:34:59: 1 remote clients, 0.8 send, 1.0 rec (K/sec); Ping: #1|26|2; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:35:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #2|52|4; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:36:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+[192.168.1.223] client connected (--)
+[192.168.1.223] pentafeeder client logged in (using serverpassword), AC: 1302|1640, pubkey: 463ba5d6ef799559da2e8bc23362bd090b2323b1e66ee36578641d260b29d9a4
+
+Game status: one shot, one kill on ac_terros, 6 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:37:59: 2 remote clients, 0.5 send, 0.7 rec (K/sec); Ping: #3|78|6; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 5 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:38:59: 2 remote clients, 0.9 send, 0.9 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 4 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:39:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 3 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:40:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 2 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:41:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_terros, 1 minutes remaining, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:42:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #5
+
+Game status: one shot, one kill on ac_terros, game finished, open, 2 clients
+cn name              frag death ping role    host
+ 0 pentafeeder         0     0    5 normal  192.168.1.223
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #5
+Demo "Thu Jul 24 03:43:19 2025: one shot, one kill, ac_terros, 0.04MB" recorded.
+
+Game start: keep the flag on ac_dusk, 2 players, 10 minutes, mastermode 0, (map rev 12/9728, official, 'getmap' not prepared)
+initdemoslot(): use slot 5, sequence #6
+Demo recording started (#6).
+setupdemorecord(): sequence #6, keep the flag on ac_dusk
+demoworkerthread(): close slot 4, sequence #5
+demo #5 written to file "demos\20250724_0343_local_ac_terros_10min_OSOK.dmo" (54725 bytes)
+demoworkerthread(): cleanup slot 4, sequence #5
+
+Game status: keep the flag on ac_dusk, 10 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    5 normal  192.168.1.223
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 03:43:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #6|152|12; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 9 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    5 normal  192.168.1.223
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:44:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 8 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    5 normal  192.168.1.223
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:45:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 7 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    5 normal  192.168.1.223
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:46:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 6 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 pentafeeder         0    0     0    5 normal  192.168.1.223
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:47:59: 2 remote clients, 1.1 send, 1.1 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+[192.168.1.223] disconnected client pentafeeder cn 0, 636 seconds played, score saved
+
+Game status: keep the flag on ac_dusk, 5 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:48:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 4 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:49:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 3 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:50:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 2 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:51:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_dusk, 1 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:52:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #6
+
+Game status: keep the flag on ac_dusk, game finished, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #6
+Demo "Thu Jul 24 03:53:29 2025: keep the flag, ac_dusk, 0.04MB" recorded.
+
+Game start: last swiss standing on ac_rattrap, 1 players, 10 minutes, mastermode 0, (map rev 50/13124, official, 'getmap' not prepared)
+initdemoslot(): use slot 6, sequence #7
+Demo recording started (#7).
+setupdemorecord(): sequence #7, last swiss standing on ac_rattrap
+demoworkerthread(): close slot 5, sequence #6
+demo #6 written to file "demos\20250724_0353_local_ac_dusk_10min_KTF.dmo" (47805 bytes)
+demoworkerthread(): cleanup slot 5, sequence #6
+
+Game status: last swiss standing on ac_rattrap, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    6 normal  192.168.1.55
+
+Status at 24-07-2025 03:53:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|75|6; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:54:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:55:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:56:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:57:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:58:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 03:59:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:00:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:01:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_rattrap, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:02:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #7
+
+Game status: last swiss standing on ac_rattrap, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #7
+Demo "Thu Jul 24 04:03:39 2025: last swiss standing, ac_rattrap, 0.03MB" recorded.
+
+Game start: deathmatch on ac_depot, 1 players, 10 minutes, mastermode 0, (map rev 18/13105, official, 'getmap' not prepared)
+initdemoslot(): use slot 7, sequence #8
+Demo recording started (#8).
+setupdemorecord(): sequence #8, deathmatch on ac_depot
+demoworkerthread(): close slot 6, sequence #7
+demo #7 written to file "demos\20250724_0403_local_ac_rattrap_10min_LSS.dmo" (38043 bytes)
+demoworkerthread(): cleanup slot 6, sequence #7
+
+Game status: deathmatch on ac_depot, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0   10 normal  192.168.1.55
+
+Status at 24-07-2025 04:03:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|79|6; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:04:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:05:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:06:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:07:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:08:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:09:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:10:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:11:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_depot, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:12:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #8
+
+Game status: deathmatch on ac_depot, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #8
+Demo "Thu Jul 24 04:13:49 2025: deathmatch, ac_depot, 0.03MB" recorded.
+
+Game start: deathmatch on ac_snow, 1 players, 10 minutes, mastermode 0, (map rev 21/9934, official, 'getmap' not prepared)
+initdemoslot(): use slot 8, sequence #9
+Demo recording started (#9).
+setupdemorecord(): sequence #9, deathmatch on ac_snow
+demoworkerthread(): close slot 7, sequence #8
+demo #8 written to file "demos\20250724_0413_local_ac_depot_10min_DM.dmo" (38018 bytes)
+demoworkerthread(): cleanup slot 7, sequence #8
+
+Game status: deathmatch on ac_snow, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:13:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|74|6; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0   14 normal  192.168.1.55
+
+Status at 24-07-2025 04:14:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:15:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:16:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:17:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:18:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:19:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:20:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    6 normal  192.168.1.55
+
+Status at 24-07-2025 04:21:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_snow, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:22:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #9
+
+Game status: deathmatch on ac_snow, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #9
+Demo "Thu Jul 24 04:23:59 2025: deathmatch, ac_snow, 0.03MB" recorded.
+
+Game start: keep the flag on ac_aqueous, 1 players, 10 minutes, mastermode 0, (map rev 41/19856, official, 'getmap' not prepared)
+initdemoslot(): use slot 9, sequence #10
+Demo recording started (#10).
+setupdemorecord(): sequence #10, keep the flag on ac_aqueous
+demoworkerthread(): close slot 8, sequence #9
+demo #9 written to file "demos\20250724_0423_local_ac_snow_10min_DM.dmo" (37784 bytes)
+demoworkerthread(): cleanup slot 8, sequence #9
+
+Game status: keep the flag on ac_aqueous, 10 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:23:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #2|48|4; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 9 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:24:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #1|27|2; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 8 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:25:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 7 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    6 normal  192.168.1.55
+
+Status at 24-07-2025 04:26:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 6 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:27:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 5 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:28:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 4 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:29:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 3 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:30:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 2 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:31:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, 1 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:32:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #10
+
+Game status: keep the flag on ac_aqueous, 0 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:33:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #1|27|2; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_aqueous, game finished, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #10
+Demo "Thu Jul 24 04:34:09 2025: keep the flag, ac_aqueous, 0.03MB" recorded.
+
+Game start: deathmatch on ac_alcove, 1 players, 10 minutes, mastermode 0, (map rev 24/21369, official, 'getmap' not prepared)
+initdemoslot(): use slot 10, sequence #11
+Demo recording started (#11).
+setupdemorecord(): sequence #11, deathmatch on ac_alcove
+demoworkerthread(): close slot 9, sequence #10
+demo #10 written to file "demos\20250724_0434_local_ac_aqueous_10min_KTF.dmo" (38210 bytes)
+demoworkerthread(): cleanup slot 9, sequence #10
+
+Game status: deathmatch on ac_alcove, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 04:34:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #2|53|4; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 04:35:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 04:36:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 04:37:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 04:38:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 04:39:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    9 normal  192.168.1.55
+
+Status at 24-07-2025 04:40:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0   10 normal  192.168.1.55
+
+Status at 24-07-2025 04:41:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    9 normal  192.168.1.55
+
+Status at 24-07-2025 04:42:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_alcove, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 04:43:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #11
+
+Game status: deathmatch on ac_alcove, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+enddemorecord(): sequence #11
+Demo "Thu Jul 24 04:44:19 2025: deathmatch, ac_alcove, 0.03MB" recorded.
+
+Game start: keep the flag on ac_origin, 1 players, 10 minutes, mastermode 0, (map rev 123/14412, official, 'getmap' not prepared)
+initdemoslot(): use slot 11, sequence #12
+Demo recording started (#12).
+setupdemorecord(): sequence #12, keep the flag on ac_origin
+demoworkerthread(): close slot 10, sequence #11
+demo #11 written to file "demos\20250724_0444_local_ac_alcove_10min_DM.dmo" (37486 bytes)
+demoworkerthread(): cleanup slot 10, sequence #11
+
+Game status: keep the flag on ac_origin, 10 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:44:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|78|6; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 9 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:45:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 8 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:46:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 7 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:47:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 6 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:48:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 5 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:49:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 4 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:50:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 3 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:51:59: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 2 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:53:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_origin, 1 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 04:54:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #12
+
+Game status: keep the flag on ac_origin, game finished, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #12
+Demo "Thu Jul 24 04:54:29 2025: keep the flag, ac_origin, 0.03MB" recorded.
+
+Game start: one shot, one kill on ac_arctic2, 1 players, 10 minutes, mastermode 0, (map rev 157/25065, official, 'getmap' not prepared)
+initdemoslot(): use slot 12, sequence #13
+Demo recording started (#13).
+setupdemorecord(): sequence #13, one shot, one kill on ac_arctic2
+demoworkerthread(): close slot 11, sequence #12
+demo #12 written to file "demos\20250724_0454_local_ac_origin_10min_KTF.dmo" (38115 bytes)
+demoworkerthread(): cleanup slot 11, sequence #12
+
+Game status: one shot, one kill on ac_arctic2, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:55:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|79|6; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:56:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:57:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:58:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 04:59:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:00:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:01:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:02:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:03:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: one shot, one kill on ac_arctic2, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:04:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #13
+
+Game status: one shot, one kill on ac_arctic2, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #13
+Demo "Thu Jul 24 05:04:39 2025: one shot, one kill, ac_arctic2, 0.03MB" recorded.
+
+Game start: keep the flag on ac_ingress, 1 players, 10 minutes, mastermode 0, (map rev 50/13717, official, 'getmap' not prepared)
+initdemoslot(): use slot 13, sequence #14
+Demo recording started (#14).
+setupdemorecord(): sequence #14, keep the flag on ac_ingress
+demoworkerthread(): close slot 12, sequence #13
+demo #13 written to file "demos\20250724_0504_local_ac_arctic2_10min_OSOK.dmo" (38232 bytes)
+demoworkerthread(): cleanup slot 12, sequence #13
+
+Game status: keep the flag on ac_ingress, 10 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:05:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|81|6; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 9 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:06:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 8 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:07:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 7 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:08:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 6 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:09:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 5 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:10:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 4 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    8 normal  192.168.1.55
+
+Status at 24-07-2025 05:11:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 3 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:12:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 2 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:13:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_ingress, 1 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:14:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #14
+
+Game status: keep the flag on ac_ingress, game finished, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 orsted              0    0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #14
+Demo "Thu Jul 24 05:14:49 2025: keep the flag, ac_ingress, 0.03MB" recorded.
+
+Game start: last swiss standing on ac_industrial, 1 players, 10 minutes, mastermode 0, (map rev 91/23202, official, 'getmap' not prepared)
+initdemoslot(): use slot 14, sequence #15
+Demo recording started (#15).
+setupdemorecord(): sequence #15, last swiss standing on ac_industrial
+demoworkerthread(): close slot 13, sequence #14
+demo #14 written to file "demos\20250724_0514_local_ac_ingress_10min_KTF.dmo" (37989 bytes)
+demoworkerthread(): cleanup slot 13, sequence #14
+
+Game status: last swiss standing on ac_industrial, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:15:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|84|6; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:16:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:17:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:18:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:19:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:20:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    9 normal  192.168.1.55
+
+Status at 24-07-2025 05:21:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:22:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:23:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: last swiss standing on ac_industrial, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+Status at 24-07-2025 05:24:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #15
+
+Game status: last swiss standing on ac_industrial, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    7 normal  192.168.1.55
+
+enddemorecord(): sequence #15
+Demo "Thu Jul 24 05:24:59 2025: last swiss standing, ac_industrial, 0.03MB" recorded.
+
+Game start: deathmatch on ac_complex, 1 players, 10 minutes, mastermode 0, (map rev 20/13461, official, 'getmap' not prepared)
+initdemoslot(): use slot 15, sequence #16
+Demo recording started (#16).
+setupdemorecord(): sequence #16, deathmatch on ac_complex
+demoworkerthread(): close slot 14, sequence #15
+demo #15 written to file "demos\20250724_0524_local_ac_industrial_10min_LSS.dmo" (37795 bytes)
+demoworkerthread(): cleanup slot 14, sequence #15
+
+Game status: deathmatch on ac_complex, 10 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    6 normal  192.168.1.55
+
+Status at 24-07-2025 05:25:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #3|87|6; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 9 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:26:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 8 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:27:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 7 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:28:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 6 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:29:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 5 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:30:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 4 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:31:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 3 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:32:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 2 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:33:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, 1 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:34:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+demorecord_beginintermission(): sequence #16
+
+Game status: deathmatch on ac_complex, 0 minutes remaining, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+Status at 24-07-2025 05:35:00: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #1|27|2; CSL: #0|0|0 (bytes)
+
+Game status: deathmatch on ac_complex, game finished, open, 1 clients
+cn name              frag death ping role    host
+ 1 orsted              0     0    5 normal  192.168.1.55
+
+enddemorecord(): sequence #16
+Demo "Thu Jul 24 05:35:09 2025: deathmatch, ac_complex, 0.03MB" recorded.
+
+Game start: deathmatch on ac_terros, 1 players, 10 minutes, mastermode 0, (map rev 108/23789, official, 'getmap' not prepared)
+initdemoslot(): use slot 16, sequence #17
+Demo recording started (#17).
+setupdemorecord(): sequence #17, deathmatch on ac_terros
+demoworkerthread(): close slot 15, sequence #16
+demo #16 written to file "demos\20250724_0535_local_ac_complex_10min_DM.dmo" (38155 bytes)
+demoworkerthread(): cleanup slot 15, sequence #16
+[192.168.1.55] disconnected client orsted cn 1, 9567 seconds played, score saved
+enddemorecord(): sequence #17
+Demo "Thu Jul 24 05:35:30 2025: deathmatch, ac_terros, 10 mr, 0.01MB" recorded.
+demoworkerthread(): close slot 16, sequence #17
+demo #17 written to file "demos\20250724_0535_local_ac_terros_0min_DM.dmo" (1862 bytes)
+demoworkerthread(): cleanup slot 16, sequence #17
+Status at 24-07-2025 05:36:00: 0 remote clients, 0.1 send, 0.3 rec (K/sec); Ping: #2|53|4; CSL: #0|0|0 (bytes)

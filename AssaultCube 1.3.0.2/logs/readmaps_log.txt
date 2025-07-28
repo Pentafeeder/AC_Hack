@@ -1,0 +1,2678 @@
+
+#### 20250723_16.36.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages\maps\official\ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages\maps\official\ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages\maps\official\ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages\maps\official\ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages\maps\official\ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages\maps\official\ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages\maps\official\ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages\maps\official\ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages\maps\official\ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages\maps\official\ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages\maps\official\ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages\maps\official\ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages\maps\official\ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages\maps\official\ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages\maps\official\ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages\maps\official\ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages\maps\official\ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages\maps\official\ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages\maps\official\ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages\maps\official\ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages\maps\official\ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages\maps\official\ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages\maps\official\ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages\maps\official\ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages\maps\official\ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages\maps\official\ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages\maps\official\ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages\maps\official\ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages\maps\official\ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages\maps\official\ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages\maps\official\ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages\maps\official\ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages\maps\official\ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages\maps\official\ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20250723_16.37.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.38.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.39.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.40.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.41.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.42.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.43.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.44.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.45.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.46.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.47.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.48.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.51.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages\maps\official\ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages\maps\official\ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages\maps\official\ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages\maps\official\ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages\maps\official\ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages\maps\official\ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages\maps\official\ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages\maps\official\ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages\maps\official\ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages\maps\official\ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages\maps\official\ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages\maps\official\ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages\maps\official\ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages\maps\official\ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages\maps\official\ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages\maps\official\ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages\maps\official\ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages\maps\official\ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages\maps\official\ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages\maps\official\ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages\maps\official\ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages\maps\official\ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages\maps\official\ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages\maps\official\ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages\maps\official\ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages\maps\official\ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages\maps\official\ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages\maps\official\ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages\maps\official\ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages\maps\official\ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages\maps\official\ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages\maps\official\ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages\maps\official\ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages\maps\official\ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20250723_16.52.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.53.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.54.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.55.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.56.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.57.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.58.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_16.59.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.00.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.01.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.02.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.03.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.04.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.05.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.06.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.07.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.08.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.09.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.10.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.11.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.12.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.13.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.14.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.15.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.16.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.17.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.18.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.19.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.20.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.21.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.22.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.23.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.24.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.25.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.26.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.27.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.28.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.29.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.30.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.31.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.32.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.33.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.34.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.35.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.36.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.37.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.38.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.39.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.40.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.41.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.43.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.44.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.45.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.46.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.47.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.48.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.49.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.50.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.51.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.52.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.53.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.54.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.55.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.56.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.57.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.58.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_17.59.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.00.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.01.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.02.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.03.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.04.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.05.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.06.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.07.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.08.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.09.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.10.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.11.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.12.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.13.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.14.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.15.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.16.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.17.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.18.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.19.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.20.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.21.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.22.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.23.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.24.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.25.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.26.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.27.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.28.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.29.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.30.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.31.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.32.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.33.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.34.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.35.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.36.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.37.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.38.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.39.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.40.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.41.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.42.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.43.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.44.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.45.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.46.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.47.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.48.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.49.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.50.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.51.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.52.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.53.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.54.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.55.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.56.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.57.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.58.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_18.59.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.00.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.01.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.02.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.03.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.04.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.05.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.06.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.07.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.08.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.09.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.10.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.11.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.12.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.13.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.14.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.15.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.16.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.17.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.18.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.19.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.20.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.21.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.22.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.23.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.24.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.25.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.26.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.27.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.28.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.29.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.30.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.31.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.32.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.33.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.34.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.35.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.36.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.37.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.38.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.39.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.40.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.41.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.42.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.43.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.44.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.45.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.46.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.47.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.48.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.49.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.50.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.51.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.52.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.53.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.54.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.55.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.56.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.57.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.58.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_19.59.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.00.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.01.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.02.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.03.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.04.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.05.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.06.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.07.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.08.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.09.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.10.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.11.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.12.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.13.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.14.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.15.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250723_20.16.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_04.59.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.00.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.01.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.02.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.03.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.04.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.05.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.06.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.07.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.08.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.09.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.10.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.11.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.12.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.13.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.14.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.15.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.16.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.17.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.18.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.19.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.20.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.21.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.22.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.23.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.24.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.25.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.26.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.27.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.28.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.29.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.30.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.31.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.32.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.33.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.34.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.35.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.36.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.37.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.38.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.39.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.40.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.41.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.42.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.43.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.44.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.45.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.46.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.47.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.48.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.49.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.50.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.51.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.52.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.53.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.54.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.55.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.56.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.57.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.58.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_05.59.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.00.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.01.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.02.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.03.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.04.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.05.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.06.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.07.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.08.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.09.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.10.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.11.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.12.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.13.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.14.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.15.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.16.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.17.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.18.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.19.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.20.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.21.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_06.22.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_07.57.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages\maps\official\ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages\maps\official\ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages\maps\official\ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages\maps\official\ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages\maps\official\ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages\maps\official\ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages\maps\official\ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages\maps\official\ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages\maps\official\ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages\maps\official\ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages\maps\official\ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages\maps\official\ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages\maps\official\ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages\maps\official\ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages\maps\official\ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages\maps\official\ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages\maps\official\ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages\maps\official\ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages\maps\official\ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages\maps\official\ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages\maps\official\ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages\maps\official\ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages\maps\official\ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages\maps\official\ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages\maps\official\ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages\maps\official\ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages\maps\official\ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages\maps\official\ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages\maps\official\ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages\maps\official\ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages\maps\official\ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages\maps\official\ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages\maps\official\ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages\maps\official\ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages\maps\official\ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages\maps\official\ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages\maps\official\ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages\maps\official\ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20250724_07.58.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_07.59.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.00.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.01.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.02.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.03.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.04.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.05.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.06.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.07.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.08.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.09.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.10.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.11.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.12.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.13.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.14.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.15.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.16.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.17.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.18.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.19.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.20.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.21.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.22.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.23.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.24.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.25.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.26.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.27.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.28.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.29.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.30.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.31.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.32.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.33.48 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.34.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.35.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.36.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.37.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.38.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.39.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.40.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.41.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.42.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.43.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.44.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.45.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.46.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.47.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.48.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.49.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.50.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.51.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.52.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.53.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.54.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.55.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.56.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.57.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.58.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_08.59.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.00.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.01.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.02.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.03.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.04.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.05.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.06.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.07.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.08.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.09.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.10.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.11.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.12.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.13.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.14.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.15.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.16.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.17.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.18.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.19.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.20.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.21.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.22.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.23.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.24.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.25.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.26.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.27.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.28.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.29.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.30.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.31.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.32.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.33.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.34.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.35.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.36.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.37.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.38.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.39.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.40.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.41.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.42.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.43.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.44.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.45.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.46.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.47.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.48.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.49.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.50.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.51.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.52.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.53.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.54.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.55.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.56.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.57.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.58.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_09.59.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.00.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.01.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.02.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.03.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.04.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.05.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.06.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.07.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.08.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.09.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.10.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.11.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.12.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.13.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.14.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.15.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.16.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.17.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.18.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.19.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.20.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.21.50 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.22.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.23.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.24.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.25.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.26.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.27.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.28.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.29.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.30.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.31.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.32.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.33.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.34.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.35.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.36.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.37.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.38.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.39.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.40.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.41.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.42.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.43.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.44.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.45.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.46.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.47.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.48.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.49.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.50.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.51.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.52.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.53.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.54.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.55.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.56.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.57.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.58.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_10.59.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.00.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.01.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.02.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.03.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.04.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.05.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.06.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.07.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.08.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.09.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.10.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.11.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.12.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.13.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.14.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.15.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.16.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.17.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.18.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.19.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.20.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.21.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.22.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.23.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.24.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.25.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.26.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.27.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.28.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.29.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.30.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.31.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.32.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.33.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.34.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.35.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.36.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.37.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.38.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.39.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.40.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.41.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.42.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.43.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.44.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.45.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.46.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.47.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.48.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.49.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.50.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.51.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.52.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.53.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.54.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.55.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.56.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.57.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.58.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_11.59.52 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.00.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.01.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.02.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.03.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.04.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.05.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.06.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.07.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.08.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.09.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.10.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.11.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.12.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.13.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.14.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.15.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.16.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.17.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.18.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.19.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.20.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.21.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.22.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.23.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.24.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.25.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.26.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.27.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.28.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.29.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.30.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.31.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.32.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.33.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.34.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.35.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.36.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.37.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.38.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.39.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.40.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.41.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.42.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.43.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.44.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.45.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.46.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.47.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.48.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.49.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.50.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.51.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.52.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.53.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.54.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.55.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.56.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.57.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.58.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_12.59.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.00.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.01.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.02.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.03.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.04.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.05.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.06.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.07.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.08.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.09.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.10.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.11.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.12.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.13.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.14.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.15.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.16.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.17.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.18.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.19.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.20.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.21.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.22.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.23.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.24.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.25.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.26.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.27.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.28.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.29.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.30.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.31.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.32.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.33.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.34.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.35.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.36.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.37.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.38.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.39.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.40.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.41.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.42.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.43.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.44.54 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.45.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.46.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.47.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.48.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.49.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.50.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.51.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.52.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.53.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.54.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.55.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.56.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.57.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.58.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_13.59.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.00.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.01.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.02.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.03.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.04.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.05.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.06.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.07.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.08.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.09.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.10.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.11.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.12.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.13.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.14.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.15.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.16.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.17.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.18.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.19.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.20.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.21.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.22.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.23.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.24.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.25.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.26.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.27.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.28.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.29.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.30.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.31.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.32.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.33.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.34.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.35.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.36.55 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.37.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.38.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.39.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.40.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.41.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.42.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.43.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.44.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.45.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.46.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.47.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.48.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.49.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.50.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.51.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.52.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.53.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.54.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.55.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.56.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.57.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.58.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_14.59.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.00.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.01.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.02.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.03.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.04.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.05.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.06.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.07.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.08.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.09.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.10.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.11.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.12.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.13.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.14.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.15.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.16.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.17.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.18.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.19.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.20.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.21.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.22.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.23.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.24.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.25.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.26.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.27.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.28.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.29.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.30.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.31.56 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.32.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.33.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.34.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.35.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.36.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.37.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.38.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.39.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.40.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.41.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.42.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.43.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.44.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.45.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.46.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.47.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.48.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.49.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.50.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.51.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.52.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.53.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.54.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.55.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.56.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.57.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.58.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_15.59.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.00.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.01.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.02.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.03.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.04.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.05.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.06.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.07.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.08.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.09.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.10.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.11.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.12.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.13.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.14.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.15.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.16.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.17.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.18.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.19.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.20.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.21.57 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.22.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.23.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.24.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.25.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.26.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.27.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.28.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.29.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.30.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.31.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.32.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.33.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.34.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.35.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.36.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.37.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.38.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.39.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.40.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.41.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.42.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.43.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.44.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.45.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.46.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.47.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.48.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.49.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.50.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.51.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.52.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.53.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.54.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.55.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.56.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.57.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.58.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_16.59.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.00.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.01.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.02.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.03.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.04.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.05.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.06.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.07.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.08.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.09.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.10.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.11.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.12.58 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.13.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.14.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.15.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.16.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.17.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.18.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.19.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.20.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.21.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.22.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.23.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.24.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.25.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.26.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.27.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.28.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.29.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.30.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.31.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.32.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.33.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.34.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.35.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.36.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.37.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.38.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.39.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.40.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.41.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.42.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.43.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.44.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.45.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.46.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.47.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.48.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.49.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.50.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.51.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.52.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.53.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.54.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.55.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.56.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.57.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.58.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_17.59.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.00.59 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.02.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.03.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.04.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.05.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.06.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.07.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.08.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.09.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.10.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.11.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.12.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.13.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.14.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.15.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.16.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.17.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.18.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.19.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.20.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.21.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.22.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.23.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.24.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.25.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.26.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.27.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.28.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.29.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.30.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.31.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.32.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.33.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.34.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.35.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.36.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.37.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.38.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.39.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.40.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.41.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.42.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.43.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.44.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.45.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.46.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.47.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.48.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.49.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.50.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.51.00 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.52.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.53.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.54.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.55.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.56.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.57.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.58.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_18.59.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.00.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.01.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.02.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.03.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.04.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.05.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.06.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.07.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.08.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.09.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.10.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.11.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.12.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.13.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.14.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.15.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.16.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.17.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.18.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.19.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.20.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.21.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.22.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.23.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.24.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.25.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.26.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.27.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.28.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.29.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.30.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.31.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.32.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.33.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.34.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.35.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.36.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.37.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.38.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.39.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.40.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.41.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.42.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.43.01 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.44.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.45.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.46.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.47.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.48.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.49.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.50.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.51.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.52.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.53.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.54.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.55.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.56.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.57.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.58.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_19.59.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.00.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.01.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.02.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.03.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.04.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.05.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.06.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.07.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.08.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.09.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.10.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.11.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.12.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.13.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.14.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.15.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.16.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.17.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.18.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.19.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.20.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.21.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.22.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.23.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.24.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.25.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.26.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.27.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.28.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.29.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.30.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.31.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.32.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.33.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.34.02 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.35.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.36.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.37.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.38.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.39.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.40.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.41.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.42.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.43.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.44.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.45.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.46.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.47.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.48.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.49.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.50.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.51.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.52.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.53.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.54.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.55.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.56.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.57.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.58.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_20.59.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.00.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.01.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.02.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.03.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.04.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.05.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.06.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.07.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.08.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.09.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.10.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.11.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.12.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.13.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.14.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.15.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.16.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.17.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.18.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.19.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.20.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.21.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.22.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.23.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.24.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.25.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.26.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.27.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.28.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.29.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.30.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.31.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.32.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.33.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.34.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.35.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.36.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.37.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.38.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.39.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.40.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.41.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.42.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.43.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.44.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.45.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.46.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.47.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.48.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.49.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.50.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.51.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.52.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.53.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.54.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.55.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.56.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.57.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.58.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_21.59.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.00.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.01.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.02.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.03.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.04.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.05.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.06.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.07.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.08.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.09.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.10.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.11.04 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.12.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.13.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.14.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.15.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.16.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.17.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.18.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.19.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.20.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.21.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.22.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.23.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.24.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.25.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.26.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.27.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.28.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.29.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.30.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.31.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.32.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.33.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.34.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.35.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.36.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.37.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.38.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.39.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.40.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.41.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.42.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.43.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.44.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.45.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.46.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.47.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.48.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.49.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.50.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.51.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.52.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.53.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.54.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.55.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.56.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.57.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.58.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_22.59.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.00.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.01.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.02.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.03.05 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.04.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.05.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.06.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.07.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.08.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.09.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.10.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.11.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.12.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.13.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.14.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.15.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.16.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.17.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.18.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.19.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.20.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.21.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.22.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.23.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.24.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.25.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.26.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.27.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.28.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.29.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.30.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.31.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.32.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.33.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.34.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.35.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.36.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.37.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.38.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.39.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.40.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.41.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.42.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.43.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.44.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.45.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.46.06 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.47.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.48.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.49.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.50.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.51.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.52.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.53.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.54.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.55.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.56.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.57.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.58.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250724_23.59.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.00.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.01.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.02.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.03.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.04.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.05.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.06.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.07.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20250725_00.08.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
