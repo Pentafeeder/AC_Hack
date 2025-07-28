@@ -1,2 +1,2 @@
 # AC_Hack
-some game hacks for the game Assault Cube
+This is a project demonstrating multiple ways people can develop game hacks by reverse engineering them.

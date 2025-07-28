@@ -1,0 +1,8 @@
+included libraries:
+pyMeow
+pymem
+sys
+ctypes (for pymem)
+math
+pynput
+

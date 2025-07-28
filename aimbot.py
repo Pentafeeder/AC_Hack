@@ -31,7 +31,7 @@ class offsets:
     head_pos_ns = 0x8 
     camera_x = 0x34
     camera_y = 0x38
-    is_alive = 0x318
+    is_dead = 0x318
 
 
 class Entity:
@@ -70,29 +70,29 @@ def aimAndShoot():
     enemy_addresses = []
     
     for addr in ent_addr_list:
-        if pm.r_int(proc, addr + offsets.team) != player_team:
+        if pm.r_int(proc, addr + offsets.team) != player_team and not pm.r_byte(proc, addr + offsets.is_dead):
             enemy_addresses.append(addr)
 
-   
-    ent_list = [Entity(addr) for addr in enemy_addresses]
-    closest_ent_addr = closestDistance(player, ent_list)
-    closest_ent = list(filter(lambda x: x.addr == closest_ent_addr, ent_list))[0]
+    if len(enemy_addresses) > 0:
+        ent_list = [Entity(addr) for addr in enemy_addresses]
+        closest_ent_addr = closestDistance(player, ent_list)
+        closest_ent = list(filter(lambda x: x.addr == closest_ent_addr, ent_list))[0]
 
-    # calc angle
-    delta = [-player.x + closest_ent.x, -player.y + closest_ent.y, -player.z + closest_ent.z]
-    
-    hyp = math.sqrt(delta[0]**2 + delta[1]**2 + delta[2]**2)
+        # calc angle
+        delta = [-player.x + closest_ent.x, -player.y + closest_ent.y, -player.z + closest_ent.z]
+        
+        hyp = math.sqrt(delta[0]**2 + delta[1]**2 + delta[2]**2)
 
 
-    angles = [
-        -1 * math.atan2(delta[0], delta[1]) / math.pi * 180.0 + 180.0, #yaw
-        math.asin(delta[2] / hyp) * 180.0 / math.pi, #pitch
-        0.0
-    ]
+        angles = [
+            -1 * math.atan2(delta[0], delta[1]) / math.pi * 180.0 + 180.0, #yaw
+            math.asin(delta[2] / hyp) * 180.0 / math.pi, #pitch
+            0.0
+        ]
 
-    # change angles
-    pm.w_float(proc, address.player_ent_addr + offsets.camera_x, angles[0])
-    pm.w_float(proc, address.player_ent_addr + offsets.camera_y, angles[1])
+        # change angles
+        pm.w_float(proc, address.player_ent_addr + offsets.camera_x, angles[0])
+        pm.w_float(proc, address.player_ent_addr + offsets.camera_y, angles[1])
     
 
 def on_click(x, y, button, pressed):
