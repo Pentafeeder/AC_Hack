@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pyMeow
+Version: 1.73.42
+Summary: Python Library for external Game Hacking
+Home-page: https://github.com/qb-0/PyMeow
+Author: qb
+License: MIT
+Dynamic: author
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary

@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+pyMeow/__init__.py
+pyMeow/pyMeow.pyd
+pyMeow/pyMeow.pyi
+pyMeow/pyMeow.so
+pyMeow.egg-info/PKG-INFO
+pyMeow.egg-info/SOURCES.txt
+pyMeow.egg-info/dependency_links.txt
+pyMeow.egg-info/top_level.txt
