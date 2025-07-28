@@ -23,7 +23,7 @@ class address:
     player_ent_addr = RemotePointer(process.process_handle, player_ent_ptr).value
     num_players = player_ent_ptr  + 0xC
     local_ent_list_ptr = player_ent_ptr + 0x04
-    traceline_func = 0x509010 #placeholder
+    traceline_func = 0x509010 
     print(player_ent_ptr, player_ent_addr)
 
 class offsets:
@@ -54,7 +54,7 @@ class offsets:
     auto_fire = 0x204
     current_weapon_ent = 0x368
     current_weapon_id = 0x4 # from current weapon ent
-    
+
     ammo_dec = 0xC73EF
     health_sub = 0x1C223
     recoil = 0xC2EC3 
